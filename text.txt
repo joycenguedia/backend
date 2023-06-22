@@ -1,0 +1,18 @@
+user name   gracenguedia 
+
+password   IXyM0a3FNNaNkR0U
+
+
+IXyM0a3FNNaNkR0U
+
+
+mongodb+srv://gracenguedia:IXyM0a3FNNaNkR0U@reactbackend.jkq0guj.mongodb.net/
+
+
+
+
+djfeuib
+
+mongodb+srv://gracenguedia:IXyM0a3FNNaNkR0U@reactbackend.jkq0guj.mongodb.net/?retryWrites=true&w=majority
+
+mongodb+srv://gracenguedia:IXyM0a3FNNaNkR0U@reactbackend.jkq0guj.mongodb.net/?retryWrites=true&w=majority
